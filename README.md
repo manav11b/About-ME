@@ -21,7 +21,7 @@ class ManavBorkar:
     def __init__(self):
         self.name        = "Manav Borkar"
         self.education   = "B.Tech AI @ G.H. Raisoni College, Nagpur (CGPA: 8.36)"
-        self.roles       = ["Full-Stack Developer", "ML Engineer", "Problem Solver"]
+        self.roles       = ["Full-Stack Developer", "ML Engineer", "Network Engineer", "Problem Solver"]
         self.languages   = ["Python 🐍", "C++", "SQL", "JavaScript", "HTML/CSS"]
         self.interests   = ["Deep Learning", "Computer Vision", "Scalable Systems"]
         self.currently   = "Building production-ready ML and web applications"
