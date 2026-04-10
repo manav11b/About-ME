@@ -131,12 +131,16 @@ me.say_hi()
 ```
 🏢 Tenet Computers          Jun 2024 – Dec 2024   Web Development Intern
    └── Django • REST APIs • SQL • JavaScript • 15% system efficiency boost
+📄 [View Internship Certificate](./certificates/Tenet_C_Manav%20Borkar.pdf)
+
 
 🐍 InternPe                 May 2025 – Jun 2025   Python Developer Intern
    └── OOP • NumPy • Pandas • Agile • 25% processing time reduction
+📄 [View Internship Certificate](./certificates/intern_pe.png)
 
 🌱 Heeds Foundation         Dec 2023 – Jan 2024   NGO Intern
    └── Community outreach • 20% increase in public engagement
+📄 [View Internship Certificate](./certificates/A_49_ManavBorkar_HeedsFoundation.pdf)
 ```
 
 ---
