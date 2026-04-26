@@ -91,7 +91,6 @@ me.say_hi()
 ### 🅿️ Smart Car Parking System
 > Real-time infrastructure at scale
 
-- 🐍 Built with Python + React
 - 👥 Supports concurrent users seamlessly
 - 📈 **40% improvement** in parking efficiency
 - 🏗️ Scalable backend architecture
